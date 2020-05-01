@@ -1,4 +1,4 @@
-"Interactive Dictionary and Paragraph Autocorrect" is a C programming project developed by Dipu Dahal, Anupam Bhattarai and Jagadish Shrestha.
+"Interactive Dictionary and Paragraph Autocorrect" is a GUI based C programming project developed by Dipu Dahal, Anupam Bhattarai and Jagadish Shrestha. It consists of a 'dictionary' program with text-to-speech and 'paragraph autocorrect' program.
 
 **************************************
 All the required details and instructions are given in "final-report.pdf".
@@ -21,5 +21,5 @@ Some important and missing notes:
 Lastly, it's all yours now. Use them wisely. :)
 
 
-
-IDE used to develop this project: Codeblocks
+IDE used to develop this program: Codeblocks
+This program may be helpful for students learning C programming language to make a GUI based C programming project as a part of college project or skill development.
